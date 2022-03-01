@@ -24,6 +24,13 @@ RE models can extract triples, which can be represented as edges in a knowledge 
 | Total      | 346,257 | 350,845 | 205,001 |
 
 
+## Dataset
 
+Dataset can be downloaded from this [url](https://drive.google.com/file/d/1i2Gz_evbO0uXAluoKXOG3C0yrcZvauUs/view?usp=sharing). There are four files contained in the zip file. 
+
+1. m2_normal_final1.tsv - Training file without any processing
+2. m2_skip_final1.tsv - Training file skipping the first line.
+3. m2_coref_final1.tsv - Training file processed with coreference resolution.
+4. m1_gold_final1_m2.tsv - Manually annotated gold test set.
 
 
