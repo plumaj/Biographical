@@ -1,6 +1,5 @@
 # Biographical Relation Extraction Dataset
 
-This repository contains (links) to all data that is relation to the Biographical dataset.
 
 ## [Biographical (English)](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)
 
