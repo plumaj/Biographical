@@ -3,8 +3,8 @@
 This repository contains (links) to all data that is relation to the Biographical dataset.
 
 ## [Biographical (English)](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)
-|            |             |             |             |
-| relation   | normal set     | coref set      | skip set       |
+
+| relation   | normal set  | coref set   | skip set    |
 |------------|-------------|-------------|-------------|
 | birthdate  | 51,524      | 47,977      | 45,211      |
 | birthplace | 50,226      | 46,551      | 17,537      |
@@ -19,11 +19,20 @@ This repository contains (links) to all data that is relation to the Biographica
 | **total**  | **346,257** | **350,845** | **205,001** |
 
 ## [Biographical DE (German)](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)
-| Set   | Instances | Relations |   |   |
-|-------|-----------|-----------|---|---|
-| Train | xxxxx     | 10        |   |   |
-| Test  | xxxxx     | 10        |   |   |
-|       |           |           |   |   |
+
+| relation   | normal set | skip set   |
+|------------|------------|------------|
+| birthdate  | 8,777      | 770        |
+| birthplace | 12,833     | 5,816      |
+| child      | 718        | 701        |
+| deathdate  | 922        | 454        |
+| deathplace | 4,059      | 3,263      |
+| educated   | 610        | 607        |
+| occupation | 10,861     | 4,836      |
+| other      | 39,782     | 20,469     |
+| parent     | 3,704      | 3,565      |
+| sibling    | 917        | 890        |
+| **total**  | **83,183** | **41,380** |
 
 
 
