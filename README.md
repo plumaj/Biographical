@@ -17,7 +17,7 @@
 | other      | 173,969     | 175,916     | 103,248     |
 | **total**  | **346,257** | **350,845** | **205,001** |
 
-## [Biographical DE (German)](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)
+## [Biographical DE (German)](https://drive.google.com/drive/folders/1OQkur0_WKGb6NDjFkuT4pNCPK8RbAZxh?usp=sharing)
 
 | relation   | normal set | skip set   |
 |------------|------------|------------|
