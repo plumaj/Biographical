@@ -1,5 +1,7 @@
 # Biographical Relation Extraction Dataset
 
+This repository contains datasets for biographical relation extraction datasets created using Guided Distant Supervision. The English dataset has been described in [[1]](#1) and a paper on the German dataset is set to follow.
+
 
 ## [Biographical (English)](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)
 
@@ -36,4 +38,7 @@
 
 
 # References
-
+<a id="1">[1]</a> 
+Alistair Plum, Tharindu Ranasinghe, Spencer Jones, Constantin Orasan, Ruslan Mitkov (2022). 
+Biographical: A Semi-Supervised Relation Extraction Dataset.
+Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
