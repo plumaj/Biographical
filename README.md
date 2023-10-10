@@ -1,43 +1,96 @@
 # Biographical Relation Extraction Dataset
 
-This repository contains datasets for biographical relation extraction datasets created using Guided Distant Supervision. The English dataset has been described in [[1]](#1) and a paper on the German dataset is set to follow.
+Welcome to the repository of datasets tailored for biographical relation extraction, crafted utilizing Guided Distant Supervision. Explore datasets available in both English and German, which facilitate extensive research in relation extraction from biographical data.
 
+## Available Datasets
 
-## [Biographical (English)](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)
+### English Dataset
 
-| relation   | normal set  | coref set   | skip set    |
+#### Overview
+
+Detailed insights into the English dataset can be found in [[1]](#1).
+
+#### Download
+
+**[Download English Dataset Here](https://drive.google.com/drive/folders/1Kq7BR0avcID_z6DQ_CabGLfaKsxmb4gc?usp=sharing)**
+
+#### Data Summary
+
+| Relation   | Normal Set  | Coref Set   | Skip Set    |
 |------------|-------------|-------------|-------------|
-| birthdate  | 51,524      | 47,977      | 45,211      |
-| birthplace | 50,226      | 46,551      | 17,537      |
-| deathdate  | 17,197      | 14,500      | 5,925       |
-| deathplace | 18,944      | 20,430      | 10,790      |
-| occupation | 18,114      | 18,111      | 8,716       |
-| parent     | 6,352       | 10,291      | 5,596       |
-| educated   | 5,639       | 9,415       | 3,858       |
-| child      | 2,209       | 4,053       | 2,123       |
-| sibling    | 2,083       | 3,601       | 1,997       |
-| other      | 173,969     | 175,916     | 103,248     |
-| **total**  | **346,257** | **350,845** | **205,001** |
+| Birthdate  | 51,524      | 47,977      | 45,211      |
+| Birthplace | 50,226      | 46,551      | 17,537      |
+| Deathdate  | 17,197      | 14,500      | 5,925       |
+| Deathplace | 18,944      | 20,430      | 10,790      |
+| Occupation | 18,114      | 18,111      | 8,716       |
+| Parent     | 6,352       | 10,291      | 5,596       |
+| Educated   | 5,639       | 9,415       | 3,858       |
+| Child      | 2,209       | 4,053       | 2,123       |
+| Sibling    | 2,083       | 3,601       | 1,997       |
+| Other      | 173,969     | 175,916     | 103,248     |
+| **Total**  | **346,257** | **350,845** | **205,001** |
 
-## [Biographical DE (German)](https://drive.google.com/drive/folders/1OQkur0_WKGb6NDjFkuT4pNCPK8RbAZxh?usp=sharing)
+### German Dataset
 
-| relation   | normal set | skip set   |
+#### Overview
+
+A paper discussing the German dataset is forthcoming.
+
+#### Download
+
+**[Download German Dataset Here](https://drive.google.com/drive/folders/1OQkur0_WKGb6NDjFkuT4pNCPK8RbAZxh?usp=sharing)**
+
+#### Data Summary
+
+| Relation   | Normal Set | Skip Set   |
 |------------|------------|------------|
-| birthdate  | 8,777      | 770        |
-| birthplace | 12,833     | 5,816      |
-| child      | 718        | 701        |
-| deathdate  | 922        | 454        |
-| deathplace | 4,059      | 3,263      |
-| educated   | 610        | 607        |
-| occupation | 10,861     | 4,836      |
-| other      | 39,782     | 20,469     |
-| parent     | 3,704      | 3,565      |
-| sibling    | 917        | 890        |
-| **total**  | **83,183** | **41,380** |
+| Birthdate  | 8,777      | 770        |
+| Birthplace | 12,833     | 5,816      |
+| Child      | 718        | 701        |
+| Deathdate  | 922        | 454        |
+| Deathplace | 4,059      | 3,263      |
+| Educated   | 610        | 607        |
+| Occupation | 10,861     | 4,836      |
+| Other      | 39,782     | 20,469     |
+| Parent     | 3,704      | 3,565      |
+| Sibling    | 917        | 890        |
+| **Total**  | **83,183** | **41,380** |
 
+## Additional Information
 
+### Dataset Creation Methodology
 
-# References
+<details>
+    <summary>Click to expand</summary>
+
+    Details regarding the dataset creation process and Guided Distant Supervision methodology go here.
+
+</details>
+
+### How to Use The Datasets
+
+<details>
+    <summary>Click to expand</summary>
+
+    Provide information on how researchers and developers can utilize and reference the datasets in their work.
+
+</details>
+
+### Licensing and Citation
+
+<details>
+    <summary>Click to expand</summary>
+
+    Include licensing details and citation instructions here.
+
+</details>
+
+### Contribution and Feedback
+
+Feel free to contribute or provide feedback to enhance the datasets. Guidelines on how to contribute and provide feedback can be detailed in this section.
+
+## References
+
 <a id="1">[1]</a> 
 Alistair Plum, Tharindu Ranasinghe, Spencer Jones, Constantin Orasan, Ruslan Mitkov (2022). 
 Biographical: A Semi-Supervised Relation Extraction Dataset.
