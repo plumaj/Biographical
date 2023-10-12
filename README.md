@@ -1,6 +1,6 @@
 # Biographical Relation Extraction Dataset
 
-Welcome to the repository of datasets tailored for biographical relation extraction, crafted utilizing Guided Distant Supervision. Explore datasets available in both English and German, which facilitate extensive research in relation extraction from biographical data.
+Welcome to the repository of datasets tailored for biographical relation extraction, crafted utilizing Guided Distant Supervision (GDS). Explore datasets available in both English and German, which facilitate extensive research in relation extraction from biographical data. Below you can find an overview of the datasets currently available, as well as the relations that are in each set. Please note there are different sets for each language, which denote how they were compiled. In short, normal followed GDS, coref added coreference resolution and skip skipped certain parts of the text. For a more extensive explanation how this worked, please refer to [[1]](#1).
 
 ## Available Datasets
 
