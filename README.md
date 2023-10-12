@@ -60,12 +60,7 @@ A paper discussing the German dataset is forthcoming.
 
 ### Dataset Creation Methodology
 
-<details>
-    <summary>Click to expand</summary>
-
-    Details regarding the dataset creation process and Guided Distant Supervision methodology go here.
-
-</details>
+Described in paper, see references for more information.
 
 ### How to Use The Datasets
 
