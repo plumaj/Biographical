@@ -57,16 +57,6 @@ A paper discussing the German dataset is forthcoming.
 | **Total**  | **83,183** | **41,380** |
 
 ## Additional Information
-
-### Dataset Creation Methodology
-
-<details>
-    <summary>Click to expand</summary>
-
-    Details regarding the dataset creation process and Guided Distant Supervision methodology go here.
-
-</details>
-
 ### How to Use The Datasets
 
 <details>
